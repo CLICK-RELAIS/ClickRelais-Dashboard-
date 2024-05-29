@@ -82,8 +82,8 @@ img{
     width: 70%;
 }
 button{
-    width: 40%;
-    margin-left: 30%;
+    width: 46%;
+    margin-left: 27%;
     margin-top: 40px;
     background-color:rgb(152,20,76);
     color: white;
@@ -96,8 +96,15 @@ button{
     font-size: 1rem;
 } 
 
+
 button:hover{
 	color: rgb(152,20,76);
     background-color: transparent;
     border: 2px solid rgb(152,20,76);
 }
+
+p{
+    margin-top: 40px;
+    color: rgba(0, 0, 0, 0.704);
+}
+
