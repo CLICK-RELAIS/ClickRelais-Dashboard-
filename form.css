@@ -20,7 +20,7 @@ main{
     position: relative;
 }
 section{
-    min-height: 350px;
+    height: 370px;
     width: 450px;
     background: rgb(255, 255, 255);
     border-radius: 1.5rem;
@@ -30,6 +30,13 @@ section{
     box-shadow: 0 25px 45px rgba(0, 0, 0, 0.1);
     /* backdrop-filter: blur(1.5rem); */
     padding: 3rem;
+}
+#rmq{
+    margin-top: 20px;
+    height: 150px; 
+}
+#rmq h1{
+    color: red;
 }
 
 .title{
